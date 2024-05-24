@@ -1,6 +1,6 @@
 # Homework 5: Introduction to Rust (Optional)
 
-**Note: This homework is optional and will not be graded.**
+**Note: This homework is optional. It will be worth a small amount of extra credit (5 points).**
 
 The homework is self-contained, and should give you a small taste of programming in Rust. If you are interested in learning more about Rust, you can continue to work on this assignment. If you are not interested in Rust, you can skip this assignment.
 
