@@ -1,5 +1,4 @@
 /*
-    CIS198 Homework 1
     Part 2: Strings, files, and mutability
 
     Make the following failing functions/tests pass.

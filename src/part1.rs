@@ -1,5 +1,4 @@
 /*
-    CIS198 Homework 1
     Part 1: Implementing functions
 
     Complete and write at least one unit test for each function you implement.

@@ -1,6 +1,8 @@
 [package]
-name = "learning_rust"
+name = "hw5"
 version = "0.1.0"
-authors = ["gatowololo <gatowololo@gmail.com>"]
-
+authors = [
+    "Caleb Stanford <cdstanford@ucdavis.edu>",
+    "gatowololo <gatowololo@gmail.com>"
+]
 [dependencies]

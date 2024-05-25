@@ -73,3 +73,9 @@ pub mod part1;
 Once all tests are working on `part1.rs` uncomment as needed to allow the other module to be checked. This way we avoid having errors from part2.rs or part3.rs stop us from running tests or compiling too much of the working code.
 
 You might notice the `pub` keyword everywhere. In each file, this makes the function public so that `main.rs` has access to it, in case you want to run it there. It also has the benefit that once you remove `#![allow(dead_code)]`, you shouldn't get dead code warnings.
+
+## Credits
+
+I originally taught this homework as part of the Rust class at UPenn (CIS 198), spring 2021.
+Thanks to the previous instructors for earlier versions of this homework,
+especially, [gatowololo (Omar)](https://gatowololo.github.io/)!

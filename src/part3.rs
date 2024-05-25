@@ -1,5 +1,4 @@
 /*
-    CIS198 Homework 1
     Part 3: Ownership, move semantics, and lifetimes
 
     Complete and write at least one unit test for each function you implement.
